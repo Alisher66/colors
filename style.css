@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(114, 96, 96);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.block-change{
+    margin-left: 50px;
+}
